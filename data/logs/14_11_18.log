@@ -1,0 +1,144 @@
+[ 2014-11-18 23:25:13 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:26:05 (CST) ]  NOTICE:  unserialize() [<a href='/function.unserialize'>function.unserialize</a>]: Error at offset 27 of 95 bytes  /root/ServerKit/webroot/core/Auth.class.php  第157行  
+[ 2014-11-18 23:26:09 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:26:43 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:26:43 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:26:43 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:26:44 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:26:44 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:26:54 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:26:54 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:26:54 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:26:56 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:26:56 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:27:00 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:27:00 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:27:00 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:27:00 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:27:00 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:27:05 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:27:05 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:27:05 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:27:07 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:27:07 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:27:48 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:27:48 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:27:48 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:27:49 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:27:49 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:27:58 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:27:58 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:27:58 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:28:00 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:28:00 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:28:12 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:28:12 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:28:12 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:28:12 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:28:12 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:28:45 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:28:45 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:28:45 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:28:46 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:28:46 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:29:16 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:29:16 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:29:16 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:29:18 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:29:18 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:29:27 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:29:27 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:29:27 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:29:29 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:29:29 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:30:20 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:30:20 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:30:20 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:30:21 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:30:21 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:30:50 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:30:50 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:30:50 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:30:52 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:30:52 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:30:56 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:30:56 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:30:56 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:30:57 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:30:57 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:31:05 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:31:05 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:31:05 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:31:05 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:31:05 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:31:17 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:31:17 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:31:17 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:31:18 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:31:18 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:31:29 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:31:29 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:31:29 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:31:31 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:31:31 (CST) ]  WARNING:  in_array() expects parameter 2 to be array, null given  /root/ServerKit/webroot/core/Auth.class.php  第55行  
+[ 2014-11-18 23:32:34 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:32:34 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:32:34 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:32:50 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:32:50 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:32:50 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:33:09 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:33:09 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:33:09 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:34:51 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:34:51 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:34:51 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:37:27 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:37:27 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:37:27 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:38:19 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:38:19 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:38:19 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:38:31 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:38:31 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:38:31 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:39:03 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:39:03 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:39:03 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:39:10 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:39:10 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:39:10 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:39:18 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:39:18 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:39:18 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:40:20 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:40:20 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:40:20 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:40:31 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:40:31 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:40:31 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:40:38 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:40:38 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:40:38 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:42:13 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:42:13 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:42:13 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:42:28 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:42:28 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:42:28 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:42:48 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:42:48 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:42:48 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:42:58 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:42:58 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:42:58 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:43:38 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:43:38 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:43:38 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:44:11 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:44:11 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:44:11 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:45:04 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  
+[ 2014-11-18 23:45:04 (CST) ]  NOTICE:  Undefined index: uname  /root/ServerKit/webroot/index.php  第45行  
+[ 2014-11-18 23:45:04 (CST) ]  WARNING:  implode() [<a href='/function.implode'>function.implode</a>]: Invalid arguments passed  /root/ServerKit/webroot/index.php  第422行  
+[ 2014-11-18 23:45:35 (CST) ]  NOTICE:  Use of undefined constant ACTION_NAME - assumed 'ACTION_NAME'  /root/ServerKit/webroot/core/Auth.class.php  第22行  

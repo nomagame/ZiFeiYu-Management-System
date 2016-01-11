@@ -1,0 +1,1 @@
+<?php if(!defined("CORE_ROOT")){die("Forbidden Access");}?>a:4:{s:5:"uname";s:5:"";s:5:"upawd";s:32:"";s:5:"upath";s:1:"/";s:5:"uauth";a:1:{i:0;s:1:"*";}}

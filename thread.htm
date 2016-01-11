@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>动态载入</title>
+<style type="text/css">
+body,ul,ol,dl,dd,dt,li,p,h1,h2,h3,h4,h5,h6,table,td,img,div,form{margin:0;padding:0;border:0;}
+</style>
+</head>
+<body>
+<div id="dtzr" class="dtzr">
+<script charset="utf-8" language="JavaScript" type="text/javascript">
+function UrlSearch(item) {
+var svalue = location.search.match(new RegExp("[\?\&]" + item + "=([^\&]*)(\&?)", "i"));
+return svalue ? svalue[1] : svalue;
+}
+var atyh=UrlSearch("atyh")?UrlSearch("atyh"):1,ggwid=UrlSearch("ggwid")?UrlSearch("ggwid"):UrlSearch("gid");
+var amsurl='<script charset="utf-8" language="JavaScript" type="text/javascript" src="';
+var NiuxDivObj=document.getElementById("dtzr");
+NiuxDivObj.className=ggwid;
+document.write('<script charset="utf-8" language="JavaScript" type="text/javascript" src="data/'+UrlSearch("gid")+'.js"><\/script>');
+</script>
+</div>
+</body>
+</html>
